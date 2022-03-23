@@ -1,4 +1,4 @@
-# unicafe redux
+# anecdotes redux
 
 This project is the Full Stack Open 2020 [part 6](https://fullstackopen.com/en/part6) anecdotes exercise.
 
